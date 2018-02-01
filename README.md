@@ -10,10 +10,10 @@
 
 ## Videos 🎥
 
-- [Pavel Pevzner explains short read assembling] (https://www.youtube.com/watch?feature=player_embedded&list=PLQ-85lQlPqFNGdaeGpV8dPEeSm3AChb6L&v=vjB6nhOu3BY)
-- [de-novo RNA-Seq Assembly] (https://www.youtube.com/watch?v=q_9v_cWZcec)
-- [Trinity - How it works] (https://www.youtube.com/watch?v=GccnW_g-4nE)
-- [De Novo RNA-Seq Assembly using Trinity] (https://www.youtube.com/watch?v=D3PSaxhOVlU)
+- [Pavel Pevzner explains short read assembling](https://www.youtube.com/watch?feature=player_embedded&list=PLQ-85lQlPqFNGdaeGpV8dPEeSm3AChb6L&v=vjB6nhOu3BY)
+- [de-novo RNA-Seq Assembly](https://www.youtube.com/watch?v=q_9v_cWZcec)
+- [Trinity - How it works](https://www.youtube.com/watch?v=GccnW_g-4nE)
+- [De Novo RNA-Seq Assembly using Trinity](https://www.youtube.com/watch?v=D3PSaxhOVlU)
 
 ## MOOCS
 
