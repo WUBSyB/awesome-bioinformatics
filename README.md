@@ -1,4 +1,4 @@
-# Awesome Bioinformatics (WUBSyB Version)
+﻿# Awesome Bioinformatics (WUBSyB Version)
 
 ## Bioinformatics Dojos - grow by solving problems/tasks 🏆
 
@@ -10,9 +10,19 @@
 
 ## Videos 🎥
 
+- [Pavel Pevzner explains short read assembling] (https://www.youtube.com/watch?feature=player_embedded&list=PLQ-85lQlPqFNGdaeGpV8dPEeSm3AChb6L&v=vjB6nhOu3BY)
+- [de-novo RNA-Seq Assembly] (https://www.youtube.com/watch?v=q_9v_cWZcec)
+- [Trinity - How it works] (https://www.youtube.com/watch?v=GccnW_g-4nE)
+- [De Novo RNA-Seq Assembly using Trinity] (https://www.youtube.com/watch?v=D3PSaxhOVlU)
+
 ## MOOCS
 
 ## Books 📚
+
+## Articles
+
+- [Sean Eddy explains HMMs](https://www.nature.com/articles/nbt1004-1315)
+- [Koonin - Sonnhammer define Orthology / Paralogy] (https://www.sciencedirect.com/science/article/pii/S0168952502027932?via%3Dihub)
 
 ## Other awesome resources
 
