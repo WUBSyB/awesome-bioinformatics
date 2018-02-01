@@ -24,7 +24,7 @@
 ## Articles
 
 - [Sean Eddy explains HMMs](https://www.nature.com/articles/nbt1004-1315)
-- [Koonin - Sonnhammer define Orthology / Paralogy] (https://www.sciencedirect.com/science/article/pii/S0168952502027932?via%3Dihub)
+- [Koonin - Sonnhammer define Orthology / Paralogy](https://www.sciencedirect.com/science/article/pii/S0168952502027932?via%3Dihub)
 
 ## Other awesome resources
 
