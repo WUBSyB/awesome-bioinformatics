@@ -17,6 +17,8 @@
 
 ## MOOCS
 
+- [Coursera Bioinformatics Specialization](https://www.coursera.org/specializations/bioinformatics)
+
 ## Books 📚
 
 ## Articles
